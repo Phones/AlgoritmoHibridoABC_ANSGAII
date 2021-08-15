@@ -2,12 +2,45 @@ import os
 import time
 import random
 from time import sleep
+from argparse import ArgumentParser
+'''DEVIDO A ALGUNS TRECHOS DO CODIGO DO GA DO VALVAL EXECUTAREM FUNÇÃO COM O CONSTRUTOR, 
+É NECESSARIO TRAZER O TERMINAL PARA A PASTA DE TESTE, ANTES MESMO DOS IMPORTS DO GA '''
+
+# ----------------------------------------- PASSAGEM DE PARAMETRO POR TERMINAL ----------------------------------------
+
+parser = ArgumentParser(
+    prog="MetaHeuristica Hibrida ABC + ANSGAII",
+    #description=""
+)
+parser.add_argument('-QT_ABC', default=10, type=int, help='Quantidade de tempo em segundos que o ABC vai ficar em execução')
+parser.add_argument('-QT_GA', default=10, type=int, help='Quantidade de tempo em segundos que o GA vai ficar em execução')
+parser.add_argument('-TA_ABC', default=100, type=int, help='Quantidade de abelhas')
+parser.add_argument('-Q_indv', default=15, type=int, help='Quantidade de individuos do abc que vão ser passados pro GA')
+parser.add_argument('-N_teste', default=1, type=int, help='Qual o testes que está sendo executado')
+args = parser.parse_args()
+
+# ---------------------------------------------------------------------------------------------------------------------
+
+print("----------------------- PARAMETROS UTILIZADOS ----------------------------")
+print("Tempo limite execução ABC: ", args.QT_ABC)
+print("Tempo limite execução GA: ", args.QT_GA)
+print("Total de abelhas: ", args.TA_ABC)
+print("Quantidade de individuos: ", args.Q_indv)
+print("Numero do teste: ", args.N_teste)
+print("--------------------------------------------------------------------------")
+
+
+# MOVE O FOCO DESSE TERMINAL PARA A PASTA EM QUE O TESTE VAI SER EXECUTADO
+caminho_pasta_teste = os.getcwd() + "/teste" + str(args.N_teste)
+print("Camihno até a pasta de teste: ", caminho_pasta_teste)
+os.chdir(caminho_pasta_teste)
+
 from grafo_pronto import grafo
 from helpers import *
 from desenha_rede import *
 from pasta_maluca.GA_correto import GA
 import pasta_maluca.GA_correto as gra
-from argparse import ArgumentParser
+
 
 print("Inicio Execução codigo!")
 
@@ -394,8 +427,8 @@ class ABC:
     def get_fluxos(self):
         return self.todos_fluxos
 
-    def salva_parametros_usados(self, tempo_max_execucaoGA, quant_indv):
-        string = ''
+    def salva_parametros_usados(self, tempo_max_execucaoGA, quant_indv, num_pasta):
+        string = 'pasta teste número: ' + str(num_pasta) + '\n'
         string += 'ciclos: ' + str(self.ciclos) + '\n'
         string += 'total_abelhas: ' + str(self.total_abelhas) + '\n'
         string += 'tempo_max_execucao: ' + str(self.tempo_max_execucao) + '\n'
@@ -498,29 +531,6 @@ Número de abelhas empregadas é igual ao número de soluções na população
 -> 
 '''
 
-
-# ----------------------------------------- PASSAGEM DE PARAMETRO POR TERMINAL ----------------------------------------
-
-parser = ArgumentParser(
-    prog="MetaHeuristica Hibrida ABC + ANSGAII",
-    #description=""
-)
-parser.add_argument('-QT_ABC', default=10, type=int, help='Quantidade de tempo em segundos que o ABC vai ficar em execução')
-parser.add_argument('-QT_GA', default=10, type=int, help='Quantidade de tempo em segundos que o GA vai ficar em execução')
-parser.add_argument('-TA_ABC', default=100, type=int, help='Quantidade de abelhas')
-parser.add_argument('-Q_indv', default=15, type=int, help='Quantidade de individuos do abc que vão ser passados pro GA')
-args = parser.parse_args()
-
-# ---------------------------------------------------------------------------------------------------------------------
-
-print("----------------------- PARAMETROS UTILIZADOS ----------------------------")
-print("Tempo limite execução ABC: ", args.QT_ABC)
-print("Tempo limite execução GA: ", args.QT_GA)
-print("Total de abelhas: ", args.TA_ABC)
-print("Quantidade de individuos: ", args.Q_indv)
-print("--------------------------------------------------------------------------")
-
-
 # Teste feitos com limitação de execução de no maximo 1h(3600s)
 quant_tempo_duracao = args.QT_ABC
 
@@ -545,11 +555,11 @@ total_tempo_execucaoAG = args.QT_GA
 
 if name == 's':
     # Cria a pasta que irá armazenar os plots
-    nome_pasta = seleciona_nome_pasta_e_cria_pasta()
+    nome_pasta = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
     # Salva os fluxos no arquivo de texto, e preenche lista de fluxos
     obj.salva_fluxos()
     # Salva os parametro utilizados
-    obj.salva_parametros_usados(total_tempo_execucaoAG, quant_indv)
+    obj.salva_parametros_usados(total_tempo_execucaoAG, quant_indv, args.N_teste)
     # Salva os custos e soma caminhos das soluções
     obj.salva_custos_e_soma_caminho_ordenado()
     # Desenha o grafico de todos os fluxos das soluções encontradas

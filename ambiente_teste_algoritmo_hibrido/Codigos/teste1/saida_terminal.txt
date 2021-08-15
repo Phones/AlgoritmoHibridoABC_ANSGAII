@@ -1,0 +1,1023 @@
+----------------------- PARAMETROS UTILIZADOS ----------------------------
+Tempo limite execução ABC:  5
+Tempo limite execução GA:  5
+Total de abelhas:  100
+Quantidade de individuos:  19
+Numero do teste:  1
+--------------------------------------------------------------------------
+Camihno até a pasta de teste:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste1
+uai
+Instancia processada
+nos processados
+links processados
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+UNLIMITED
+demandas processadas
+matriz adjacencia capacidade pronta
+matriz adjacencia custo pronta
+caminhos da demanda 0 gerados, quantidade: 10
+caminhos da demanda 1 gerados, quantidade: 10
+caminhos da demanda 2 gerados, quantidade: 10
+caminhos da demanda 3 gerados, quantidade: 10
+caminhos da demanda 4 gerados, quantidade: 10
+caminhos da demanda 5 gerados, quantidade: 10
+caminhos da demanda 6 gerados, quantidade: 10
+caminhos da demanda 7 gerados, quantidade: 10
+caminhos da demanda 8 gerados, quantidade: 10
+caminhos da demanda 9 gerados, quantidade: 10
+caminhos da demanda 10 gerados, quantidade: 10
+caminhos da demanda 11 gerados, quantidade: 10
+caminhos da demanda 12 gerados, quantidade: 10
+caminhos da demanda 13 gerados, quantidade: 10
+caminhos da demanda 14 gerados, quantidade: 10
+caminhos da demanda 15 gerados, quantidade: 10
+caminhos da demanda 16 gerados, quantidade: 10
+caminhos da demanda 17 gerados, quantidade: 10
+caminhos da demanda 18 gerados, quantidade: 10
+caminhos da demanda 19 gerados, quantidade: 10
+caminhos da demanda 20 gerados, quantidade: 10
+caminhos da demanda 21 gerados, quantidade: 10
+caminhos da demanda 22 gerados, quantidade: 10
+caminhos da demanda 23 gerados, quantidade: 10
+Caminhos gerados
+Inicio Execução codigo!
+gerando populacao
+Populacao gerada
+Custo:  29693463.0
+Ranks:  2
+soma_tam_caminhos:  53
+Custo:  30804242.0
+Ranks:  3
+soma_tam_caminhos:  56
+Custo:  39752889.0
+Ranks:  17
+soma_tam_caminhos:  64
+Custo:  40029521.0
+Ranks:  18
+soma_tam_caminhos:  66
+Custo:  36154607.0
+Ranks:  12
+soma_tam_caminhos:  64
+Custo:  38411697.0
+Ranks:  15
+soma_tam_caminhos:  63
+Custo:  36468540.0
+Ranks:  11
+soma_tam_caminhos:  59
+Custo:  36240283.0
+Ranks:  13
+soma_tam_caminhos:  65
+Custo:  35184417.0
+Ranks:  9
+soma_tam_caminhos:  58
+Custo:  33920595.0
+Ranks:  8
+soma_tam_caminhos:  61
+Custo:  36095817.0
+Ranks:  11
+soma_tam_caminhos:  64
+Custo:  36452115.0
+Ranks:  6
+soma_tam_caminhos:  55
+Custo:  35711195.0
+Ranks:  10
+soma_tam_caminhos:  58
+Custo:  33304247.0
+Ranks:  5
+soma_tam_caminhos:  57
+Custo:  34435335.0
+Ranks:  6
+soma_tam_caminhos:  56
+Custo:  36726954.0
+Ranks:  12
+soma_tam_caminhos:  59
+Custo:  35049416.0
+Ranks:  8
+soma_tam_caminhos:  58
+Custo:  36320885.0
+Ranks:  8
+soma_tam_caminhos:  56
+Custo:  36821485.0
+Ranks:  13
+soma_tam_caminhos:  60
+Custo:  35271669.0
+Ranks:  8
+soma_tam_caminhos:  57
+Custo:  37850162.0
+Ranks:  9
+soma_tam_caminhos:  56
+Custo:  33557284.0
+Ranks:  5
+soma_tam_caminhos:  55
+Custo:  37710748.0
+Ranks:  14
+soma_tam_caminhos:  60
+Custo:  35495857.0
+Ranks:  9
+soma_tam_caminhos:  57
+Custo:  35520950.0
+Ranks:  10
+soma_tam_caminhos:  60
+Custo:  37979154.0
+Ranks:  15
+soma_tam_caminhos:  66
+Custo:  33001188.0
+Ranks:  6
+soma_tam_caminhos:  59
+Custo:  38755680.0
+Ranks:  16
+soma_tam_caminhos:  69
+Custo:  34655218.0
+Ranks:  9
+soma_tam_caminhos:  62
+Custo:  35643836.0
+Ranks:  10
+soma_tam_caminhos:  59
+Custo:  39521249.0
+Ranks:  16
+soma_tam_caminhos:  64
+Custo:  34225424.0
+Ranks:  9
+soma_tam_caminhos:  66
+Custo:  33577195.0
+Ranks:  4
+soma_tam_caminhos:  53
+Custo:  38010998.0
+Ranks:  15
+soma_tam_caminhos:  65
+Custo:  33767139.0
+Ranks:  5
+soma_tam_caminhos:  54
+Custo:  37354352.0
+Ranks:  14
+soma_tam_caminhos:  68
+Custo:  35180362.0
+Ranks:  9
+soma_tam_caminhos:  61
+Custo:  32533567.0
+Ranks:  5
+soma_tam_caminhos:  58
+Custo:  33285051.0
+Ranks:  7
+soma_tam_caminhos:  59
+Custo:  32693154.0
+Ranks:  2
+soma_tam_caminhos:  51
+Custo:  31265592.0
+Ranks:  4
+soma_tam_caminhos:  57
+Custo:  30566957.0
+Ranks:  1
+soma_tam_caminhos:  51
+Custo:  39189802.0
+Ranks:  16
+soma_tam_caminhos:  65
+Custo:  39700010.0
+Ranks:  15
+soma_tam_caminhos:  61
+Custo:  32097689.0
+Ranks:  4
+soma_tam_caminhos:  55
+Custo:  34652684.0
+Ranks:  7
+soma_tam_caminhos:  56
+Custo:  31808099.0
+Ranks:  3
+soma_tam_caminhos:  53
+Custo:  33421725.0
+Ranks:  6
+soma_tam_caminhos:  58
+Custo:  34565426.0
+Ranks:  8
+soma_tam_caminhos:  60
+Custo:  28840305.0
+Ranks:  1
+soma_tam_caminhos:  52
+------------------ ciclo -> 0 ------------------
+FASE DAS ABELHAS EMPREGADAS
+FASE DAS ABELHAS CALCULA VETOR DE PIS
+FASE DAS ABELHAS OBERSADORAS
+vetor ranks:  [3, 13, 12, 12, 3, 8, 2, 14, 8, 5, 5, 1, 3, 3, 11, 6, 11, 2, 5, 2, 2, 2, 3, 10, 4, 8, 10, 7, 2, 9, 6, 4, 1, 8, 13, 9, 5, 11, 7, 4, 7, 1, 2, 8, 7, 4, 13, 1, 13, 5]
+FASE DAS ABELHAS EXPLORADORAS
+-------------------------------------------------
+------------------ ciclo -> 1 ------------------
+FASE DAS ABELHAS EMPREGADAS
+FASE DAS ABELHAS CALCULA VETOR DE PIS
+FASE DAS ABELHAS OBERSADORAS
+vetor ranks:  [9, 6, 15, 1, 12, 1, 6, 3, 7, 9, 14, 2, 10, 6, 2, 10, 1, 5, 6, 13, 5, 4, 7, 1, 12, 13, 8, 7, 6, 1, 12, 8, 8, 5, 1, 11, 4, 9, 2, 8, 14, 2, 3, 1, 5, 1, 9, 1, 6, 3]
+FASE DAS ABELHAS EXPLORADORAS
+-------------------------------------------------
+------------------ ciclo -> 2 ------------------
+FASE DAS ABELHAS EMPREGADAS
+FASE DAS ABELHAS CALCULA VETOR DE PIS
+FASE DAS ABELHAS OBERSADORAS
+vetor ranks:  [11, 10, 3, 1, 6, 1, 6, 4, 12, 3, 6, 1, 10, 3, 4, 14, 3, 9, 7, 4, 7, 5, 11, 8, 2, 9, 1, 6, 1, 6, 11, 2, 14, 11, 8, 7, 13, 9, 4, 10, 4, 5, 5, 2, 2, 9, 3, 12, 1, 7]
+FASE DAS ABELHAS EXPLORADORAS
+-------------------------------------------------
+ !FIM DA EXECUÇÃO!
+MELHORES SOLUÇÕES ENCONTRADAS: 
+----------------------------------------------
+SOLUÇÃO, Custo:  15993652.0
+SOLUÇÃO, soma_tam_caminhos:  30
+SOLUÇÃO, Custo:  18458545.0
+SOLUÇÃO, soma_tam_caminhos:  25
+SOLUÇÃO, Custo:  16816133.0
+SOLUÇÃO, soma_tam_caminhos:  28
+SOLUÇÃO, Custo:  19459526.0
+SOLUÇÃO, soma_tam_caminhos:  24
+SOLUÇÃO, Custo:  16483112.0
+SOLUÇÃO, soma_tam_caminhos:  32
+SOLUÇÃO, Custo:  16925971.0
+SOLUÇÃO, soma_tam_caminhos:  30
+SOLUÇÃO, Custo:  16995668.0
+SOLUÇÃO, soma_tam_caminhos:  27
+SOLUÇÃO, Custo:  18614095.0
+SOLUÇÃO, soma_tam_caminhos:  25
+SOLUÇÃO, Custo:  17698539.0
+SOLUÇÃO, soma_tam_caminhos:  26
+SOLUÇÃO, Custo:  16990808.0
+SOLUÇÃO, soma_tam_caminhos:  28
+SOLUÇÃO, Custo:  17601639.0
+SOLUÇÃO, soma_tam_caminhos:  27
+SOLUÇÃO, Custo:  17538582.0
+SOLUÇÃO, soma_tam_caminhos:  28
+SOLUÇÃO, Custo:  16887481.0
+SOLUÇÃO, soma_tam_caminhos:  32
+SOLUÇÃO, Custo:  17921424.0
+SOLUÇÃO, soma_tam_caminhos:  26
+----------------------------------------------
+Quantidade de ciclos executados:  3
+caminho do cwd:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste1
+caminho_final:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+Fim do plot de todos os fluxos!
+Tipo da variavel obj:  <class '__main__.ABC'>
+Tipo da posição da lista:  <class '__main__.cromossomo'>
+--------------------------------------
+15993652.0
+16483112.0
+16816133.0
+16887481.0
+16925971.0
+16990808.0
+16995668.0
+17538582.0
+17601639.0
+17698539.0
+17921424.0
+18458545.0
+18614095.0
+19459526.0
+--------------------------------------
+Enviando população para o GA!
+Tamanho da população:  89
+gerando populacao
+( 39271320.0 | 60 ),
+gerados 0 cromossomos
+( 32250877.0 | 60 ),
+gerados 1 cromossomos
+( 34926595.0 | 57 ),( 32250877.0 | 60 ),
+gerados 2 cromossomos
+( 34926595.0 | 57 ),( 32250877.0 | 60 ),
+gerados 3 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 4 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 5 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 6 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 7 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 8 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 9 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 10 cromossomos
+( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 11 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 12 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 13 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 14 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 15 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 16 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 17 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 18 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 19 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 20 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 21 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 22 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 23 cromossomos
+( 35655037.0 | 51 ),( 34514064.0 | 54 ),( 32250877.0 | 60 ),
+gerados 24 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 25 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 26 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 27 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 28 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 29 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 30 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 31 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 32 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 33 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 34 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 35 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 36 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 37 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 38 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 39 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 40 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 41 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 42 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 43 cromossomos
+( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 44 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 45 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 46 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 47 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 48 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 49 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 50 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 51 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 52 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 53 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 54 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 55 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 56 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 57 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 58 cromossomos
+( 31055573.0 | 59 ),( 31521508.0 | 52 ),( 35655037.0 | 51 ),
+gerados 59 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 60 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 61 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 62 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 63 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 64 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 65 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 66 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 67 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 68 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 69 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 70 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 71 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 72 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 73 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 74 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 75 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 76 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 77 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 78 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 79 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 80 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 81 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 82 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 83 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 84 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 85 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 86 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 87 cromossomos
+( 31217928.0 | 51 ),( 31055573.0 | 59 ),
+gerados 88 cromossomos
+Populacao gerada
+Tamhno da população gerada:  89
+Tamanho da população depois de inserir os individuos do ABC:  103
+/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/19
+---- 0 ---- 0.8123694470000018 s
+operador de cruzamento finalizado 1 novos individuos
+Mutação realizada 33 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 33999297.51923077
+soma média de caminhos 55.96153846153846
+rank médio 14.173076923076923
+melhor rank 1
+( 17601639.0 | 27 ),( 19459526.0 | 24 ),( 16483112.0 | 32 ),( 16990808.0 | 28 ),
+-----------------
+---- 1 ---- 0.9927578859999997 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 39 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 33899305.190476194
+soma média de caminhos 55.50476190476191
+rank médio 14.2
+melhor rank 1
+( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 17813049.0 | 26 ),( 17601639.0 | 27 ),( 19459526.0 | 24 ),( 16990808.0 | 28 ),
+-----------------
+---- 2 ---- 1.1848422340000013 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 32 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32946164.51851852
+soma média de caminhos 54.129629629629626
+rank médio 16.916666666666668
+melhor rank 1
+( 16195102.0 | 28 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 17813049.0 | 26 ),( 19459526.0 | 24 ),
+-----------------
+---- 3 ---- 1.407142136000001 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 42 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32745969.12962963
+soma média de caminhos 54.28703703703704
+rank médio 18.01851851851852
+melhor rank 1
+( 15197946.0 | 30 ),( 16195102.0 | 28 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 17813049.0 | 26 ),( 19459526.0 | 24 ),
+-----------------
+---- 4 ---- 1.6459965469999993 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 41 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 33056396.462962963
+soma média de caminhos 54.324074074074076
+rank médio 16.35185185185185
+melhor rank 1
+( 17698539.0 | 26 ),( 15197946.0 | 30 ),( 16195102.0 | 28 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 5 ---- 1.857737372999999 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 42 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32878386.96190476
+soma média de caminhos 54.161904761904765
+rank médio 14.447619047619048
+melhor rank 1
+( 17698539.0 | 26 ),( 15197946.0 | 30 ),( 16195102.0 | 28 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 6 ---- 2.0529117039999996 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 41 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32725904.028037384
+soma média de caminhos 53.925233644859816
+rank médio 14.69158878504673
+melhor rank 1
+( 17698539.0 | 26 ),( 15197946.0 | 30 ),( 16195102.0 | 28 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 7 ---- 2.2547757650000015 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 37 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32987746.433962263
+soma média de caminhos 54.20754716981132
+rank médio 15.066037735849056
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 8 ---- 2.457195599000002 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 38 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32676020.504761904
+soma média de caminhos 53.95238095238095
+rank médio 15.295238095238096
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 9 ---- 2.669032294000001 s
+operador de cruzamento finalizado 1 novos individuos
+Mutação realizada 32 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32558630.942307692
+soma média de caminhos 54.125
+rank médio 18.173076923076923
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 10 ---- 2.879032298000002 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 39 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32325167.028301887
+soma média de caminhos 53.971698113207545
+rank médio 16.87735849056604
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 11 ---- 3.097121543 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 36 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32557396.962962963
+soma média de caminhos 54.03703703703704
+rank médio 17.0
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 12 ---- 3.3285970820000017 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 30 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32735650.093457945
+soma média de caminhos 53.794392523364486
+rank médio 17.822429906542055
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 13 ---- 3.5526669260000006 s
+operador de cruzamento finalizado 7 novos individuos
+Mutação realizada 42 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32759398.027272727
+soma média de caminhos 53.5
+rank médio 17.736363636363638
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 14 ---- 3.8013686950000007 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 38 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32438837.28037383
+soma média de caminhos 53.08411214953271
+rank médio 16.700934579439252
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 15 ---- 4.032861918000002 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 33 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32036026.085714284
+soma média de caminhos 53.06666666666667
+rank médio 16.438095238095237
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 16 ---- 4.259287582999999 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 45 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32501713.171428572
+soma média de caminhos 53.78095238095238
+rank médio 18.61904761904762
+melhor rank 1
+( 17601639.0 | 26 ),( 16177012.0 | 28 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 17 ---- 4.498505555000001 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 50 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32543427.46226415
+soma média de caminhos 53.867924528301884
+rank médio 16.754716981132077
+melhor rank 1
+( 16161712.0 | 28 ),( 17601639.0 | 26 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+---- 18 ---- 4.740499716000002 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 43 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 15993652.0
+melhor soma de caminhos 30
+custo médio 32447417.714285713
+soma média de caminhos 53.647619047619045
+rank médio 20.409523809523808
+melhor rank 1
+( 16098202.0 | 28 ),( 17601639.0 | 26 ),( 15197946.0 | 30 ),( 16881158.0 | 27 ),( 18458545.0 | 25 ),( 15997477.0 | 29 ),( 19459526.0 | 24 ),
+-----------------
+/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/19
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 1 --------
+fluxo:  258.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  364.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  197.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  422.0 capacidade instalada 480.0
+fluxo:  138.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  397.0 capacidade instalada 480.0
+fluxo:  320.0 capacidade instalada 480.0
+fluxo:  373.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  108.0 capacidade instalada 480.0
+fluxo:  352.0 capacidade instalada 480.0
+fluxo:  312.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  347.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 2 --------
+fluxo:  396.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  364.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  197.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  278.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  252.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  385.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 3 --------
+fluxo:  396.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  463.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  296.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  386.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  381.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  320.0 capacidade instalada 480.0
+fluxo:  337.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  332.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  385.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 4 --------
+fluxo:  258.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  463.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  296.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  422.0 capacidade instalada 480.0
+fluxo:  138.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  397.0 capacidade instalada 480.0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  108.0 capacidade instalada 480.0
+fluxo:  352.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  247.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 5 --------
+fluxo:  258.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  364.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  197.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  278.0 capacidade instalada 480.0
+fluxo:  138.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  252.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  247.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 6 --------
+fluxo:  396.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  463.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  296.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  278.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  252.0 capacidade instalada 480.0
+fluxo:  474.0 capacidade instalada 480.0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  342.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  332.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  385.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 7 --------
+fluxo:  258.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  364.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  197.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  278.0 capacidade instalada 480.0
+fluxo:  138.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  144.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  108.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  247.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+menor custo:  15197946.0
+{'demanda_caminho': [[30], [17], [27], [4], [29], [16], [14], [0, 32], [18], [26], [1], [2], [11, 16, 18], [17, 18], [33], [2, 4], [22], [11], [7], [28], [0], [32], [14, 22], [13]], 'fluxo_aresta': [396.0, 115.0, 463.0, 0.0, 296.0, 0.0, 0.0, 266.0, 0.0, 0.0, 0.0, 386.0, 0.0, 237.0, 381.0, 0.0, 268.0, 320.0, 337.0, 0.0, 0.0, 0.0, 332.0, 0.0, 0.0, 0.0, 115.0, 212.0, 263.0, 160.0, 384.0, 0.0, 385.0, 100.0], 'custo': 15197946.0, 'soma_tam_caminhos': 30, 'lista_modulos': [480.0, 480.0, 480.0, 0, 480.0, 0, 0, 480.0, 0, 0, 0, 480.0, 0, 480.0, 480.0, 0, 480.0, 480.0, 480.0, 0, 0, 0, 480.0, 0, 0, 0, 480.0, 480.0, 480.0, 480.0, 480.0, 0, 480.0, 480.0]}
+SALVANDO FRENTE DE PARETO DO GA
