@@ -491,9 +491,9 @@ Número de abelhas empregadas é igual ao número de soluções na população
 -> 
 '''
 # Teste feitos com limitação de execução de no maximo 1h(3600s)
-quant_tempo_duracao = 1200
+quant_tempo_duracao = 10
 
-total_abelhas = 1000
+total_abelhas = 100
 
 obj = ABC("pdh.txt", tempo_max_execucao=quant_tempo_duracao,quant_abelhas=total_abelhas)
 obj.execute_abc()
@@ -510,7 +510,7 @@ quant_indv = 15
 if len(obj.melhores_solucoes) < quant_indv:
     quant_indv = len(obj.melhores_solucoes)
 
-total_tempo_execucaoAG = 3600
+total_tempo_execucaoAG = 10
 
 if name == 's':
     # Cria a pasta que irá armazenar os plots

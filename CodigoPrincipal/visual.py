@@ -57,7 +57,7 @@ class visual:
         nx.draw_networkx_labels(self.G, self.node_pos, self.node_label)
         nx.draw_networkx_edge_labels(self.G,self.node_pos,edge_labels=self.edge_label)
         plt.savefig('plot_fluxo_' + str(numero_fluxo) + '.png')
-        plt.show()
+        #plt.show()
 
     def generate_solution_nodes(self,solution_edges,Gra):
         self.solution_nodes = []

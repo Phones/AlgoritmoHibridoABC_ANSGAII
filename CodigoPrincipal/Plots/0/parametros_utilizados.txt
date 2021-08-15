@@ -1,4 +1,4 @@
-ciclos: 7
+ciclos: 6
 total_abelhas: 100
 tempo_max_execucao: 10
 quantidade_abelhas_empregadas: 50
