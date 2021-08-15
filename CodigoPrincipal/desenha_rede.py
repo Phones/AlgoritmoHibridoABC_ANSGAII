@@ -14,7 +14,8 @@ from visual import visual
 def seleciona_nome_pasta_e_cria_pasta():
     '''Verifica os nome de pasta que já existem, e então escolhe o nome da pasta
      com base no nome da ultima pasta criada'''
-    caminho = os.getcwd() + "/Plots/"
+    caminho = os.getcwd()
+    caminho = caminho.replace("/CodigoPrincipal", "/ambiente_teste_algoritmo_hibrido/resultados") + "/Plots/"
     print("caminho_final: ", caminho)
     lista_nome_pastas = os.listdir(caminho)
 

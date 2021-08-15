@@ -410,7 +410,13 @@ class ABC:
         arq.write(string)
         arq.close()
 
-    def salva_custos_e_soma_caminho_ordenado(self):
+    def salva_custos_e_soma_caminho_ordenado(self, GA_=False, grande_frente_pareto_GA_=None):
+
+        nome_arq = "custos_e_soma_caminho_ABC.txt"
+        if GA_:
+            self.melhores_solucoes = grande_frente_pareto_GA_
+            nome_arq = "custos_e_soma_caminho_GA.txt"
+
         string = ''
         lista_aux = []
         for i in range(len(self.melhores_solucoes)):
@@ -421,7 +427,7 @@ class ABC:
             string += "SOLUÇÃO " + str(pos[2]) + ", Custo: " + str(pos[0]) + '\n'
             string += "SOLUÇÃO " + str(pos[2]) + ", soma_tam_caminhos: " + str(pos[1]) + '\n'
 
-        arq = open('custos_e_soma_caminho.txt', 'w')
+        arq = open(nome_arq, 'w')
         arq.write(string)
         arq.close()
 
@@ -501,7 +507,7 @@ print("Quantidade de ciclos executados: ", obj.ciclos)
 
 name = 's'
 while name != 'n' and name != 's':
-    name = input("Plotar o gráfic0o?(s/n)").lower()
+    name = input("Plotar o gráfico?(s/n)").lower()
     print(name)
 
 nome_pasta = ''
@@ -531,10 +537,13 @@ print("Tipo da variavel obj: ", type(obj))
 lista_com_melhores_solucoes = obj.melhores_solucoes
 print("Tipo da posição da lista: ", type(lista_com_melhores_solucoes[0]))
 print("--------------------------------------")
-for obj in lista_com_melhores_solucoes:
-    print(obj.custo)
+for obj_j in lista_com_melhores_solucoes:
+    print(obj_j.custo)
 print("--------------------------------------")
 
 print("Enviando população para o GA!")
 obj_GA = GA(populacaoABC=lista_com_melhores_solucoes, quant_indv=quant_indv)
-obj_GA.Executa(total_tempo_execucaoAG)
+frente_de_pareto_GA = obj_GA.Executa(total_tempo_execucaoAG)
+print("Frente de Pareto do GA: ", frente_de_pareto_GA)
+print("SALVANDO FRENTE DE PARETO DO GA")
+obj.salva_custos_e_soma_caminho_ordenado(GA_=True, grande_frente_pareto_GA_=frente_de_pareto_GA)

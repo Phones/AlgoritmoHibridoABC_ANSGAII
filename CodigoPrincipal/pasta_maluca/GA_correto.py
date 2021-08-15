@@ -524,6 +524,7 @@ class GA:
         self.__non_dominated_pareto_sort()
         self.__calcula_dados()
         self.__plot_frente_de_pareto(str(geracao))
+        grande_frente_final = []
         while time.process_time() - tempo_inicial< total_tempo_execucaoAG:
             print('----', geracao, '----',time.process_time() - tempo_inicial,'s')
             self.__operador_cruzamento()
@@ -547,10 +548,14 @@ class GA:
             print('melhor rank',self.melhor_rank)
             aux_frente = "geracao " + str(geracao) + " - tempo " + str(time.process_time() - tempo_inicial) + "\n"
             for i in range(len(grande_frente_pareto)):
+                if grande_frente_pareto[i].custo < self.menor_custo[0]:
+                    self.menor_custo = [grande_frente_pareto[i].custo, grande_frente_pareto[i]]
+
                 aux_frente += '(' + str(grande_frente_pareto[i].custo) + '|' + str(grande_frente_pareto[i].soma_tam_caminhos) + ') '
                 print('(',grande_frente_pareto[i].custo,'|',grande_frente_pareto[i].soma_tam_caminhos,')',end=',')
             print('')
             print('-----------------')
+            grande_frente_final = grande_frente_pareto
             self.salva_arquivo(aux_frente)
             self.__calcula_dados()
             geracao+=1
@@ -561,4 +566,5 @@ class GA:
         self.gera_imagem_soluc()
         print("menor custo: ", self.menor_custo[0])
         print(self.menor_custo[1].__dict__)
+        return grande_frente_final
 
