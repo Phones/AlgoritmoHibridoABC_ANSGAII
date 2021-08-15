@@ -3,7 +3,7 @@ import random
 from time import sleep
 
 arq = open('quant_testes.txt', 'r')
-quant_testes = int(arq.read)
+quant_testes = int(arq.read())
 arq.close()
 
 random.seed(None)
@@ -14,6 +14,7 @@ def monta_lista_parametros_de_teste():
 	lista_final_teste = []
 	for i in range(1, quant_testes + 1):
 		parametros_ = '1200 3600 ' + str(random.randint(1,15) * 100) + " " + str(random.randint(1,25)) + " " + str(i)
+		parametros_ = '5 5 100 10 ' + str(i) # parametros para teste
 		lista_final_teste.append(parametros_)
 
 	return lista_final_teste

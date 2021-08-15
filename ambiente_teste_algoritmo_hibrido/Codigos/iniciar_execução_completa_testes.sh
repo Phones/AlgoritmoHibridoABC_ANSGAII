@@ -1,5 +1,27 @@
 #!/bin/bash
 
+function quant_terminais_abertos()
+{
+	declare -i quant_terminais=$(ls /dev/pts/  | wc -l)
+	echo $quant_terminais
+}
+
+function espera_processos_finalizarem()
+{
+	echo "ESPERANDO RODADA ANTERIOR FINALIZAR, PARA INICIAR A PROXIMA"
+	cont=0
+	while [ $cont -lt 1 ]
+	do
+		num_terminais=`quant_terminais_abertos`
+		#echo "Numero terminais $num_terminais"
+		if [ $num_terminais -lt 6 ]
+		then
+			let cont=cont+1
+		fi
+	done
+	echo "!!!!!!!!!!!!!!!!!!!!! RODADA COMPLETA !!!!!!!!!!!!!!!!!!!!!"
+}
+
 echo "Iniciando execução dos testes!"
 
 echo "------------------------------------------"
@@ -23,6 +45,12 @@ echo "------------------------------------------"
 echo "Gerando novas pastas de teste!"
 ./copy_or_delete.sh
 
-echo "------------------------------------------"
-echo "Criando terminais para execução"
-python cria_todos_terminais_e_executa_teste.py
+declare -i quant_rodadas_teste=5
+
+for i in $(seq 1 $quant_rodadas_teste);
+do
+	echo "------------- INICIANDO RODADA DE TESTE NÚMERO: $i -------------"
+	echo "  --- Criando terminais para execução e executando testes ---"
+	python cria_todos_terminais_e_executa_teste.py
+	espera_processos_finalizarem
+done

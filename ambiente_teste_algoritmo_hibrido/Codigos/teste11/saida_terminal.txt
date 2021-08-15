@@ -2,7 +2,7 @@
 Tempo limite execução ABC:  5
 Tempo limite execução GA:  5
 Total de abelhas:  100
-Quantidade de individuos:  6
+Quantidade de individuos:  10
 Numero do teste:  11
 --------------------------------------------------------------------------
 Camihno até a pasta de teste:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste11
@@ -65,189 +65,181 @@ Caminhos gerados
 Inicio Execução codigo!
 gerando populacao
 Populacao gerada
-Custo:  33565554.0
+Custo:  31047890.0
+Ranks:  2
+soma_tam_caminhos:  54
+Custo:  38076965.0
+Ranks:  17
+soma_tam_caminhos:  61
+Custo:  34803595.0
+Ranks:  8
+soma_tam_caminhos:  60
+Custo:  33645466.0
+Ranks:  6
+soma_tam_caminhos:  58
+Custo:  38960958.0
+Ranks:  18
+soma_tam_caminhos:  62
+Custo:  35314851.0
+Ranks:  11
+soma_tam_caminhos:  60
+Custo:  34918799.0
+Ranks:  10
+soma_tam_caminhos:  62
+Custo:  33208528.0
 Ranks:  5
 soma_tam_caminhos:  60
-Custo:  35596464.0
-Ranks:  8
-soma_tam_caminhos:  62
-Custo:  34784867.0
-Ranks:  7
+Custo:  39172936.0
+Ranks:  11
 soma_tam_caminhos:  59
-Custo:  38018421.0
-Ranks:  11
+Custo:  34805359.0
+Ranks:  9
 soma_tam_caminhos:  60
-Custo:  37680744.0
-Ranks:  11
-soma_tam_caminhos:  62
-Custo:  32636931.0
-Ranks:  3
-soma_tam_caminhos:  56
-Custo:  33720789.0
+Custo:  34694196.0
+Ranks:  6
+soma_tam_caminhos:  57
+Custo:  31416790.0
 Ranks:  4
-soma_tam_caminhos:  56
-Custo:  37832668.0
-Ranks:  9
 soma_tam_caminhos:  58
-Custo:  36442093.0
-Ranks:  9
-soma_tam_caminhos:  61
-Custo:  33525576.0
-Ranks:  2
-soma_tam_caminhos:  53
-Custo:  38477628.0
+Custo:  36137531.0
+Ranks:  8
+soma_tam_caminhos:  58
+Custo:  35818705.0
+Ranks:  14
+soma_tam_caminhos:  63
+Custo:  29644468.0
+Ranks:  1
+soma_tam_caminhos:  54
+Custo:  37136809.0
 Ranks:  14
 soma_tam_caminhos:  62
-Custo:  38109237.0
-Ranks:  13
-soma_tam_caminhos:  62
-Custo:  30570513.0
-Ranks:  1
-soma_tam_caminhos:  52
-Custo:  36603470.0
-Ranks:  8
-soma_tam_caminhos:  58
-Custo:  36896585.0
-Ranks:  12
-soma_tam_caminhos:  63
-Custo:  33831631.0
-Ranks:  2
-soma_tam_caminhos:  52
-Custo:  35952617.0
-Ranks:  8
-soma_tam_caminhos:  61
-Custo:  36982164.0
-Ranks:  9
-soma_tam_caminhos:  59
-Custo:  39276768.0
-Ranks:  15
-soma_tam_caminhos:  63
-Custo:  36376068.0
-Ranks:  8
-soma_tam_caminhos:  60
-Custo:  34969833.0
-Ranks:  3
-soma_tam_caminhos:  53
-Custo:  36004427.0
-Ranks:  9
-soma_tam_caminhos:  62
-Custo:  34757499.0
-Ranks:  7
-soma_tam_caminhos:  62
-Custo:  30813249.0
-Ranks:  2
-soma_tam_caminhos:  60
-Custo:  36757572.0
-Ranks:  10
-soma_tam_caminhos:  62
-Custo:  39878688.0
-Ranks:  11
-soma_tam_caminhos:  58
-Custo:  36105519.0
-Ranks:  7
-soma_tam_caminhos:  57
-Custo:  42939374.0
-Ranks:  18
-soma_tam_caminhos:  67
-Custo:  41845631.0
-Ranks:  17
-soma_tam_caminhos:  63
-Custo:  37129596.0
-Ranks:  10
-soma_tam_caminhos:  60
-Custo:  34320692.0
-Ranks:  6
-soma_tam_caminhos:  59
-Custo:  36040648.0
-Ranks:  10
-soma_tam_caminhos:  64
-Custo:  36886506.0
-Ranks:  11
-soma_tam_caminhos:  63
-Custo:  33746998.0
-Ranks:  5
-soma_tam_caminhos:  56
-Custo:  34060084.0
-Ranks:  6
-soma_tam_caminhos:  60
-Custo:  39785076.0
-Ranks:  15
-soma_tam_caminhos:  62
-Custo:  32508473.0
-Ranks:  2
-soma_tam_caminhos:  55
-Custo:  32749462.0
-Ranks:  4
-soma_tam_caminhos:  60
-Custo:  37732582.0
-Ranks:  8
-soma_tam_caminhos:  57
-Custo:  38663077.0
-Ranks:  10
-soma_tam_caminhos:  58
-Custo:  35505069.0
-Ranks:  6
-soma_tam_caminhos:  57
-Custo:  37715811.0
-Ranks:  6
-soma_tam_caminhos:  56
-Custo:  40200349.0
+Custo:  37199989.0
 Ranks:  16
-soma_tam_caminhos:  69
-Custo:  37759767.0
-Ranks:  12
-soma_tam_caminhos:  62
-Custo:  34746937.0
-Ranks:  6
+soma_tam_caminhos:  66
+Custo:  36219900.0
+Ranks:  9
 soma_tam_caminhos:  58
-Custo:  33690129.0
+Custo:  37472528.0
+Ranks:  14
+soma_tam_caminhos:  60
+Custo:  37767373.0
+Ranks:  16
+soma_tam_caminhos:  61
+Custo:  40788513.0
+Ranks:  19
+soma_tam_caminhos:  62
+Custo:  34825816.0
+Ranks:  8
+soma_tam_caminhos:  59
+Custo:  35876617.0
+Ranks:  9
+soma_tam_caminhos:  59
+Custo:  37529358.0
 Ranks:  3
 soma_tam_caminhos:  54
-Custo:  38227150.0
+Custo:  36802543.0
+Ranks:  7
+soma_tam_caminhos:  57
+Custo:  35051457.0
+Ranks:  10
+soma_tam_caminhos:  60
+Custo:  37526198.0
+Ranks:  17
+soma_tam_caminhos:  66
+Custo:  31296311.0
+Ranks:  3
+soma_tam_caminhos:  57
+Custo:  37173236.0
+Ranks:  15
+soma_tam_caminhos:  63
+Custo:  34225577.0
+Ranks:  5
+soma_tam_caminhos:  57
+Custo:  37900386.0
+Ranks:  17
+soma_tam_caminhos:  62
+Custo:  35617620.0
 Ranks:  12
 soma_tam_caminhos:  60
-Custo:  33368210.0
-Ranks:  4
+Custo:  36846547.0
+Ranks:  13
+soma_tam_caminhos:  60
+Custo:  34576971.0
+Ranks:  9
+soma_tam_caminhos:  66
+Custo:  35737484.0
+Ranks:  13
+soma_tam_caminhos:  63
+Custo:  31835031.0
+Ranks:  3
+soma_tam_caminhos:  56
+Custo:  34353009.0
+Ranks:  8
+soma_tam_caminhos:  61
+Custo:  30740571.0
+Ranks:  2
+soma_tam_caminhos:  62
+Custo:  35284370.0
+Ranks:  11
+soma_tam_caminhos:  65
+Custo:  33823470.0
+Ranks:  7
+soma_tam_caminhos:  58
+Custo:  35981274.0
+Ranks:  5
+soma_tam_caminhos:  56
+Custo:  32442246.0
+Ranks:  3
+soma_tam_caminhos:  55
+Custo:  36733709.0
+Ranks:  10
 soma_tam_caminhos:  59
-Custo:  40993921.0
+Custo:  35816938.0
+Ranks:  4
+soma_tam_caminhos:  56
+Custo:  37720945.0
+Ranks:  15
+soma_tam_caminhos:  60
+Custo:  37417830.0
 Ranks:  16
 soma_tam_caminhos:  63
-Custo:  40698284.0
-Ranks:  17
-soma_tam_caminhos:  71
+Custo:  39731882.0
+Ranks:  19
+soma_tam_caminhos:  63
+Custo:  37455461.0
+Ranks:  8
+soma_tam_caminhos:  57
+Custo:  33498053.0
+Ranks:  4
+soma_tam_caminhos:  57
+Custo:  33335935.0
+Ranks:  5
+soma_tam_caminhos:  58
 ------------------ ciclo -> 0 ------------------
 FASE DAS ABELHAS EMPREGADAS
 FASE DAS ABELHAS CALCULA VETOR DE PIS
 FASE DAS ABELHAS OBERSADORAS
-vetor ranks:  [1, 3, 10, 5, 9, 13, 5, 4, 2, 1, 3, 13, 1, 10, 5, 1, 9, 11, 12, 5, 6, 2, 2, 15, 8, 2, 8, 10, 13, 9, 14, 7, 12, 4, 1, 1, 11, 4, 11, 7, 6, 6, 4, 11, 6, 10, 1, 3, 3, 1]
+vetor ranks:  [12, 7, 3, 9, 13, 3, 11, 7, 1, 1, 5, 2, 4, 2, 7, 1, 8, 3, 3, 2, 1, 2, 6, 3, 8, 4, 9, 5, 11, 10, 8, 5, 3, 7, 6, 8, 5, 12, 6, 10, 13, 1, 7, 12, 6, 4, 13, 4, 1, 4]
 FASE DAS ABELHAS EXPLORADORAS
 -------------------------------------------------
  !FIM DA EXECUÇÃO!
 MELHORES SOLUÇÕES ENCONTRADAS: 
 ----------------------------------------------
-SOLUÇÃO, Custo:  16165890.0
-SOLUÇÃO, soma_tam_caminhos:  29
-SOLUÇÃO, Custo:  17813049.0
-SOLUÇÃO, soma_tam_caminhos:  27
-SOLUÇÃO, Custo:  18494938.0
-SOLUÇÃO, soma_tam_caminhos:  26
-SOLUÇÃO, Custo:  16771508.0
-SOLUÇÃO, soma_tam_caminhos:  28
-SOLUÇÃO, Custo:  15109971.0
-SOLUÇÃO, soma_tam_caminhos:  30
-SOLUÇÃO, Custo:  18517195.0
-SOLUÇÃO, soma_tam_caminhos:  25
 SOLUÇÃO, Custo:  19459526.0
 SOLUÇÃO, soma_tam_caminhos:  24
+SOLUÇÃO, Custo:  18531220.0
+SOLUÇÃO, soma_tam_caminhos:  25
+SOLUÇÃO, Custo:  17661564.0
+SOLUÇÃO, soma_tam_caminhos:  26
+SOLUÇÃO, Custo:  16803383.0
+SOLUÇÃO, soma_tam_caminhos:  28
+SOLUÇÃO, Custo:  17602914.0
+SOLUÇÃO, soma_tam_caminhos:  27
 ----------------------------------------------
 Quantidade de ciclos executados:  1
 caminho do cwd:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste11
 caminho_final:  /home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-34
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-34
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68]
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 34
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -262,592 +254,640 @@ Fim do plot de todos os fluxos!
 Tipo da variavel obj:  <class '__main__.ABC'>
 Tipo da posição da lista:  <class '__main__.cromossomo'>
 --------------------------------------
-15109971.0
-16165890.0
-16771508.0
-17813049.0
-18494938.0
-18517195.0
+16803383.0
+17602914.0
+17661564.0
+18531220.0
 19459526.0
 --------------------------------------
 Enviando população para o GA!
-Tamanho da população:  81
+Tamanho da população:  80
 gerando populacao
-( 37812709.0 | 60 ),
+( 38926117.0 | 65 ),
 gerados 0 cromossomos
-( 32716015.0 | 60 ),
+( 43473273.0 | 61 ),( 38926117.0 | 65 ),
 gerados 1 cromossomos
-( 32716015.0 | 60 ),
+( 38026761.0 | 59 ),
 gerados 2 cromossomos
-( 35839392.0 | 57 ),( 32716015.0 | 60 ),
+( 34969972.0 | 60 ),( 38026761.0 | 59 ),
 gerados 3 cromossomos
-( 35839392.0 | 57 ),( 32716015.0 | 60 ),
+( 34552409.0 | 58 ),
 gerados 4 cromossomos
-( 35839392.0 | 57 ),( 32716015.0 | 60 ),
+( 34552409.0 | 58 ),
 gerados 5 cromossomos
-( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 31283025.0 | 57 ),
 gerados 6 cromossomos
-( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 31283025.0 | 57 ),
 gerados 7 cromossomos
-( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 8 cromossomos
-( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 9 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 10 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 11 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 12 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 13 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 14 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 15 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 16 cromossomos
-( 37121575.0 | 55 ),( 36765966.0 | 56 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 17 cromossomos
-( 36600348.0 | 55 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 33062526.0 | 53 ),( 31283025.0 | 57 ),
 gerados 18 cromossomos
-( 36600348.0 | 55 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 19 cromossomos
-( 36600348.0 | 55 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 20 cromossomos
-( 36600348.0 | 55 ),( 30218304.0 | 58 ),( 35839392.0 | 57 ),
+( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 21 cromossomos
-( 35562427.0 | 57 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 33119550.0 | 51 ),( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 22 cromossomos
-( 35562427.0 | 57 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 33119550.0 | 51 ),( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 23 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 33119550.0 | 51 ),( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 24 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 33119550.0 | 51 ),( 31591835.0 | 54 ),( 31956743.0 | 53 ),( 31283025.0 | 57 ),
 gerados 25 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 26 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 27 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 28 cromossomos
-( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 29 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 30 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 31 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 32 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 33 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 34 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 35 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 36 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 37 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 38 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 39 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 40 cromossomos
-( 32570263.0 | 57 ),( 34137452.0 | 56 ),( 36600348.0 | 55 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 41 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 42 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 43 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 44 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 45 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 46 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 47 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 48 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 49 cromossomos
-( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 50 cromossomos
-( 29252970.0 | 59 ),( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 51 cromossomos
-( 29252970.0 | 59 ),( 33905018.0 | 55 ),( 32570263.0 | 57 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 52 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 53 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 54 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 55 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 56 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 57 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 58 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 59 cromossomos
-( 30229165.0 | 53 ),( 29252970.0 | 59 ),( 30218304.0 | 58 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 60 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 61 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 62 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 63 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 64 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 65 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 66 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 67 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 68 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 69 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 70 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 71 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 72 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 73 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 74 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 75 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 76 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 77 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 78 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
+( 31305490.0 | 51 ),( 31283025.0 | 57 ),
 gerados 79 cromossomos
-( 29692054.0 | 52 ),( 29252970.0 | 59 ),
-gerados 80 cromossomos
 Populacao gerada
-Tamhno da população gerada:  81
-Tamanho da população depois de inserir os individuos do ABC:  87
-/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/26
----- 0 ---- 0.4864580199999997 s
-operador de cruzamento finalizado 10 novos individuos
-Mutação realizada 43 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 35425106.432989694
-soma média de caminhos 57.845360824742265
-rank médio 15.288659793814434
-melhor rank 1
-( 16765133.0 | 29 ),
------------------
----- 1 ---- 0.6598630229999998 s
-operador de cruzamento finalizado 7 novos individuos
-Mutação realizada 34 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 34276369.44680851
-soma média de caminhos 56.319148936170215
-rank médio 14.659574468085106
-melhor rank 1
-( 17772489.0 | 27 ),( 16765133.0 | 29 ),
------------------
----- 2 ---- 0.8141132899999999 s
-operador de cruzamento finalizado 7 novos individuos
-Mutação realizada 36 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33480766.882978722
-soma média de caminhos 55.297872340425535
-rank médio 13.47872340425532
-melhor rank 1
-( 17516214.0 | 26 ),( 16765133.0 | 29 ),
------------------
----- 3 ---- 0.9619652349999992 s
-operador de cruzamento finalizado 4 novos individuos
-Mutação realizada 41 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33573607.74725275
-soma média de caminhos 55.417582417582416
-rank médio 13.912087912087912
-melhor rank 1
-( 18755380.0 | 25 ),( 17516214.0 | 26 ),( 16765133.0 | 29 ),
------------------
----- 4 ---- 1.1099708269999997 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 37 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33885090.94382022
-soma média de caminhos 56.1123595505618
-rank médio 14.191011235955056
-melhor rank 1
-( 18755380.0 | 25 ),( 17516214.0 | 26 ),( 16765133.0 | 29 ),
------------------
----- 5 ---- 1.2557518399999994 s
-operador de cruzamento finalizado 3 novos individuos
-Mutação realizada 34 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33633998.38888889
-soma média de caminhos 55.37777777777778
-rank médio 15.988888888888889
-melhor rank 1
-( 18755380.0 | 25 ),( 17516214.0 | 26 ),( 16765133.0 | 29 ),
------------------
----- 6 ---- 1.4088241039999998 s
-operador de cruzamento finalizado 5 novos individuos
-Mutação realizada 39 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33414336.010869566
-soma média de caminhos 55.29347826086956
-rank médio 17.793478260869566
-melhor rank 1
-( 17390922.0 | 28 ),( 18755380.0 | 25 ),( 17516214.0 | 26 ),( 16765133.0 | 29 ),
------------------
----- 7 ---- 1.5835887170000005 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 33 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33660518.415730335
-soma média de caminhos 55.47191011235955
-rank médio 16.51685393258427
-melhor rank 1
-( 16765133.0 | 28 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 8 ---- 1.7376444179999995 s
-operador de cruzamento finalizado 5 novos individuos
-Mutação realizada 26 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33478842.054347824
-soma média de caminhos 55.16304347826087
-rank médio 17.717391304347824
-melhor rank 1
-( 15109971.0 | 30 ),( 16765133.0 | 28 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 9 ---- 1.9154118979999994 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 43 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33113528.64044944
-soma média de caminhos 54.80898876404494
-rank médio 17.93258426966292
-melhor rank 1
-( 17512389.0 | 27 ),( 15109971.0 | 30 ),( 16765133.0 | 28 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 10 ---- 2.084619721 s
-operador de cruzamento finalizado 5 novos individuos
-Mutação realizada 42 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32738081.913043477
-soma média de caminhos 53.869565217391305
-rank médio 18.73913043478261
-melhor rank 1
-( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 16765133.0 | 28 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 11 ---- 2.268499092 s
-operador de cruzamento finalizado 9 novos individuos
-Mutação realizada 28 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32336900.291666668
-soma média de caminhos 53.59375
-rank médio 21.40625
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 12 ---- 2.491198225999999 s
-operador de cruzamento finalizado 4 novos individuos
-Mutação realizada 38 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 31832715.87912088
-soma média de caminhos 53.15384615384615
-rank médio 20.89010989010989
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 13 ---- 2.687950622 s
-operador de cruzamento finalizado 1 novos individuos
-Mutação realizada 35 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32154486.71590909
-soma média de caminhos 53.79545454545455
-rank médio 19.386363636363637
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 14 ---- 2.863743925999999 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 30 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32581904.35955056
-soma média de caminhos 54.2247191011236
-rank médio 19.98876404494382
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 15 ---- 3.048227818 s
-operador de cruzamento finalizado 4 novos individuos
-Mutação realizada 19 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32552433.41758242
-soma média de caminhos 54.34065934065934
-rank médio 22.32967032967033
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 16 ---- 3.2478961699999997 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 37 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32292398.61797753
-soma média de caminhos 54.13483146067416
-rank médio 21.662921348314608
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 17 ---- 3.4516522800000002 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 40 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32433436.47191011
-soma média de caminhos 53.853932584269664
-rank médio 23.44943820224719
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 18 ---- 3.6594383909999992 s
-operador de cruzamento finalizado 1 novos individuos
-Mutação realizada 29 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32695510.136363637
-soma média de caminhos 53.79545454545455
-rank médio 19.886363636363637
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 19 ---- 3.8338801689999995 s
+Tamhno da população gerada:  80
+Tamanho da população depois de inserir os individuos do ABC:  85
+/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/69
+---- 0 ---- 0.3926114009999999 s
 operador de cruzamento finalizado 5 novos individuos
 Mutação realizada 32 individuos mutados
 fim Crowding
 Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32695535.43478261
-soma média de caminhos 54.18478260869565
-rank médio 20.945652173913043
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 35195361.04444444
+soma média de caminhos 57.24444444444445
+rank médio 15.311111111111112
 melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
+( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
 -----------------
----- 20 ---- 4.034197577 s
-operador de cruzamento finalizado 2 novos individuos
-Mutação realizada 36 individuos mutados
+---- 1 ---- 0.5518040960000006 s
+operador de cruzamento finalizado 7 novos individuos
+Mutação realizada 30 individuos mutados
 fim Crowding
 Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32660957.61797753
-soma média de caminhos 54.146067415730336
-rank médio 20.01123595505618
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 34195173.75
+soma média de caminhos 56.16304347826087
+rank médio 16.684782608695652
 melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
 -----------------
----- 21 ---- 4.217987829999999 s
-operador de cruzamento finalizado 0 novos individuos
-Mutação realizada 34 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33140573.40229885
-soma média de caminhos 54.2183908045977
-rank médio 17.091954022988507
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 22 ---- 4.384813193 s
-operador de cruzamento finalizado 3 novos individuos
-Mutação realizada 35 individuos mutados
-fim Crowding
-Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33023289.78888889
-soma média de caminhos 54.13333333333333
-rank médio 19.977777777777778
-melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
------------------
----- 23 ---- 4.575873747 s
+---- 2 ---- 0.7211274940000001 s
 operador de cruzamento finalizado 4 novos individuos
 Mutação realizada 36 individuos mutados
 fim Crowding
 Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32684058.12087912
-soma média de caminhos 54.20879120879121
-rank médio 19.560439560439562
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33772471.92134831
+soma média de caminhos 56.056179775280896
+rank médio 16.10112359550562
 melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
 -----------------
----- 24 ---- 4.776447407 s
+---- 3 ---- 0.8758941609999997 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 30 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33706089.67816092
+soma média de caminhos 55.91954022988506
+rank médio 13.954022988505747
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 4 ---- 1.0092908220000005 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 34 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33383033.17777778
+soma média de caminhos 55.477777777777774
+rank médio 13.38888888888889
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 5 ---- 1.158564804 s
+operador de cruzamento finalizado 7 novos individuos
+Mutação realizada 37 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33117680.663043477
+soma média de caminhos 55.19565217391305
+rank médio 15.065217391304348
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 6 ---- 1.3246864050000005 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 32 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33430284.34090909
+soma média de caminhos 55.07954545454545
+rank médio 14.704545454545455
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 7 ---- 1.4670648440000003 s
+operador de cruzamento finalizado 7 novos individuos
+Mutação realizada 35 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33187223.402173914
+soma média de caminhos 54.80434782608695
+rank médio 13.173913043478262
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 8 ---- 1.6145956660000005 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 33 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32544222.02247191
+soma média de caminhos 54.157303370786515
+rank médio 14.191011235955056
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 9 ---- 1.757285028 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 28 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32800250.6
+soma média de caminhos 54.17777777777778
+rank médio 13.966666666666667
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 10 ---- 1.8982612579999998 s
+operador de cruzamento finalizado 1 novos individuos
+Mutação realizada 26 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32798087.30232558
+soma média de caminhos 54.63953488372093
+rank médio 13.209302325581396
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 11 ---- 2.02667299 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 32 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32986122.471264366
+soma média de caminhos 54.666666666666664
+rank médio 14.379310344827585
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 12 ---- 2.175834933 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 26 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33259666.6
+soma média de caminhos 54.644444444444446
+rank médio 15.71111111111111
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 13 ---- 2.3352319590000006 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 34 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32890615.786516853
+soma média de caminhos 54.0
+rank médio 17.348314606741575
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 14 ---- 2.488726787 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 37 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32587785.056818184
+soma média de caminhos 54.67045454545455
+rank médio 14.147727272727273
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 15 ---- 2.6326288630000008 s
+operador de cruzamento finalizado 1 novos individuos
+Mutação realizada 26 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33054708.31395349
+soma média de caminhos 55.02325581395349
+rank médio 14.093023255813954
+melhor rank 1
+( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 16 ---- 2.764957711000001 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 35 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33162975.57303371
+soma média de caminhos 54.98876404494382
+rank médio 15.393258426966293
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 17 ---- 2.9176085460000003 s
+operador de cruzamento finalizado 1 novos individuos
+Mutação realizada 38 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32871536.837209303
+soma média de caminhos 55.0
+rank médio 14.011627906976743
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 18 ---- 3.0613934300000007 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 31 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 33393372.651685394
+soma média de caminhos 55.06741573033708
+rank médio 17.0561797752809
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 19 ---- 3.2250384289999996 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 35 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32695265.193181816
+soma média de caminhos 54.5
+rank médio 16.613636363636363
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 20 ---- 3.385331807 s
+operador de cruzamento finalizado 6 novos individuos
+Mutação realizada 31 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32351156.802197803
+soma média de caminhos 53.32967032967033
+rank médio 17.142857142857142
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 21 ---- 3.565259311 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 33 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32490487.137931034
+soma média de caminhos 54.12643678160919
+rank médio 17.333333333333332
+melhor rank 1
+( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 16803383.0 | 28 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 22 ---- 3.7348013600000005 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 29 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32658857.827586208
+soma média de caminhos 54.28735632183908
+rank médio 19.229885057471265
+melhor rank 1
+( 16775333.0 | 28 ),( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 23 ---- 3.9085374809999998 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 36 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32573809.0
+soma média de caminhos 54.02272727272727
+rank médio 17.625
+melhor rank 1
+( 16775333.0 | 28 ),( 16008952.0 | 29 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 24 ---- 4.085691025000001 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 31 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32382664.88764045
+soma média de caminhos 53.550561797752806
+rank médio 18.719101123595507
+melhor rank 1
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 25 ---- 4.268699048 s
+operador de cruzamento finalizado 3 novos individuos
+Mutação realizada 30 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32500789.454545453
+soma média de caminhos 53.86363636363637
+rank médio 19.318181818181817
+melhor rank 1
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 26 ---- 4.447124505 s
 operador de cruzamento finalizado 3 novos individuos
 Mutação realizada 34 individuos mutados
 fim Crowding
 Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 32714463.1
-soma média de caminhos 53.96666666666667
-rank médio 21.41111111111111
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32100109.227272727
+soma média de caminhos 53.07954545454545
+rank médio 19.204545454545453
 melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
 -----------------
----- 25 ---- 4.982971774 s
-operador de cruzamento finalizado 0 novos individuos
-Mutação realizada 34 individuos mutados
+---- 27 ---- 4.6297838559999995 s
+operador de cruzamento finalizado 2 novos individuos
+Mutação realizada 30 individuos mutados
 fim Crowding
 Seleção realizada
-melhor custo 15109971.0
-melhor soma de caminhos 30
-custo médio 33202023.172413792
-soma média de caminhos 54.804597701149426
-rank médio 19.7816091954023
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32175939.88505747
+soma média de caminhos 52.89655172413793
+rank médio 17.64367816091954
 melhor rank 1
-( 15895477.0 | 28 ),( 16770233.0 | 27 ),( 15109971.0 | 30 ),( 18517195.0 | 25 ),( 17516214.0 | 26 ),
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
 -----------------
-/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/26
+---- 28 ---- 4.794277343999999 s
+operador de cruzamento finalizado 4 novos individuos
+Mutação realizada 36 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32109161.64044944
+soma média de caminhos 52.60674157303371
+rank médio 17.528089887640448
+melhor rank 1
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+---- 29 ---- 4.9807759350000005 s
+operador de cruzamento finalizado 5 novos individuos
+Mutação realizada 30 individuos mutados
+fim Crowding
+Seleção realizada
+melhor custo 16803383.0
+melhor soma de caminhos 28
+custo médio 32345089.877777778
+soma média de caminhos 52.766666666666666
+rank médio 17.9
+melhor rank 1
+( 16001302.0 | 29 ),( 16775333.0 | 28 ),( 17602914.0 | 27 ),( 19459526.0 | 24 ),( 17661564.0 | 26 ),( 18531220.0 | 25 ),
+-----------------
+/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/resultados/Plots/69
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 34
 ------Solucao 1 --------
-fluxo:  258.0 capacidade instalada 480.0
-fluxo:  115.0 capacidade instalada 480.0
+fluxo:  373.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
 fluxo:  364.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  197.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
+fluxo:  100.0 capacidade instalada 480.0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  365.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  377.0 capacidade instalada 480.0
+fluxo:  278.0 capacidade instalada 480.0
 fluxo:  138.0 capacidade instalada 480.0
 fluxo:  237.0 capacidade instalada 480.0
-fluxo:  252.0 capacidade instalada 480.0
-fluxo:  237.0 capacidade instalada 480.0
-fluxo:  268.0 capacidade instalada 480.0
-fluxo:  339.0 capacidade instalada 480.0
+fluxo:  144.0 capacidade instalada 480.0
+fluxo:  397.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
+fluxo:  320.0 capacidade instalada 480.0
 fluxo:  229.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  203.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  115.0 capacidade instalada 480.0
-fluxo:  459.0 capacidade instalada 480.0
-fluxo:  263.0 capacidade instalada 480.0
+fluxo:  383.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  478.0 capacidade instalada 480.0
 fluxo:  160.0 capacidade instalada 480.0
 fluxo:  384.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
+fluxo:  247.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  347.0 capacidade instalada 480.0
 ----------------------------
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 34
 ------Solucao 2 --------
-fluxo:  258.0 capacidade instalada 480.0
-fluxo:  115.0 capacidade instalada 480.0
+fluxo:  373.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
 fluxo:  364.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  197.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  365.0 capacidade instalada 480.0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  377.0 capacidade instalada 480.0
+fluxo:  278.0 capacidade instalada 480.0
 fluxo:  138.0 capacidade instalada 480.0
 fluxo:  237.0 capacidade instalada 480.0
-fluxo:  252.0 capacidade instalada 480.0
+fluxo:  304.0 capacidade instalada 480.0
 fluxo:  237.0 capacidade instalada 480.0
-fluxo:  268.0 capacidade instalada 480.0
-fluxo:  339.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
+fluxo:  320.0 capacidade instalada 480.0
 fluxo:  229.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  95.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
+fluxo:  203.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  115.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  223.0 capacidade instalada 480.0
 fluxo:  212.0 capacidade instalada 480.0
-fluxo:  263.0 capacidade instalada 480.0
+fluxo:  378.0 capacidade instalada 480.0
 fluxo:  160.0 capacidade instalada 480.0
 fluxo:  384.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
@@ -864,25 +904,25 @@ fluxo:  0.0 capacidade instalada 0
 fluxo:  197.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  365.0 capacidade instalada 480.0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  377.0 capacidade instalada 480.0
+fluxo:  278.0 capacidade instalada 480.0
 fluxo:  138.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  252.0 capacidade instalada 480.0
 fluxo:  474.0 capacidade instalada 480.0
+fluxo:  304.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
 fluxo:  268.0 capacidade instalada 480.0
-fluxo:  339.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  466.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  332.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  0.0 capacidade instalada 0
 fluxo:  115.0 capacidade instalada 480.0
 fluxo:  459.0 capacidade instalada 480.0
 fluxo:  263.0 capacidade instalada 480.0
@@ -909,15 +949,15 @@ fluxo:  0.0 capacidade instalada 0
 fluxo:  278.0 capacidade instalada 480.0
 fluxo:  138.0 capacidade instalada 480.0
 fluxo:  237.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  381.0 capacidade instalada 480.0
+fluxo:  144.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
 fluxo:  160.0 capacidade instalada 480.0
 fluxo:  215.0 capacidade instalada 480.0
 fluxo:  124.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  105.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  239.0 capacidade instalada 480.0
+fluxo:  95.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  108.0 capacidade instalada 480.0
@@ -946,20 +986,20 @@ fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  278.0 capacidade instalada 480.0
 fluxo:  138.0 capacidade instalada 480.0
-fluxo:  381.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
 fluxo:  237.0 capacidade instalada 480.0
-fluxo:  160.0 capacidade instalada 480.0
-fluxo:  215.0 capacidade instalada 480.0
-fluxo:  124.0 capacidade instalada 480.0
+fluxo:  144.0 capacidade instalada 480.0
+fluxo:  397.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  249.0 capacidade instalada 480.0
-fluxo:  0.0 capacidade instalada 0
-fluxo:  203.0 capacidade instalada 480.0
+fluxo:  339.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
 fluxo:  0.0 capacidade instalada 0
+fluxo:  229.0 capacidade instalada 480.0
 fluxo:  0.0 capacidade instalada 0
-fluxo:  223.0 capacidade instalada 480.0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  108.0 capacidade instalada 480.0
+fluxo:  275.0 capacidade instalada 480.0
 fluxo:  212.0 capacidade instalada 480.0
 fluxo:  263.0 capacidade instalada 480.0
 fluxo:  160.0 capacidade instalada 480.0
@@ -968,6 +1008,44 @@ fluxo:  0.0 capacidade instalada 0
 fluxo:  247.0 capacidade instalada 480.0
 fluxo:  100.0 capacidade instalada 480.0
 ----------------------------
-menor custo:  15109971.0
-{'demanda_caminho': [[30], [17], [27], [4], [29], [16], [14], [12], [17, 20], [26], [1], [2], [14, 16], [20], [33], [7, 11], [22], [11], [7], [28], [0], [27, 33], [15], [15, 20, 22]], 'fluxo_aresta': [258.0, 115.0, 364.0, 0.0, 197.0, 0.0, 0.0, 365.0, 0.0, 0.0, 0.0, 377.0, 138.0, 0.0, 252.0, 474.0, 268.0, 339.0, 0.0, 0.0, 466.0, 0.0, 332.0, 0.0, 0.0, 0.0, 115.0, 459.0, 263.0, 160.0, 384.0, 0.0, 0.0, 347.0], 'custo': 15109971.0, 'soma_tam_caminhos': 30}
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+34
+------Solucao 6 --------
+fluxo:  258.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  364.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  197.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  266.0 capacidade instalada 480.0
+fluxo:  99.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  278.0 capacidade instalada 480.0
+fluxo:  138.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  304.0 capacidade instalada 480.0
+fluxo:  237.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  215.0 capacidade instalada 480.0
+fluxo:  124.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  105.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  95.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  268.0 capacidade instalada 480.0
+fluxo:  115.0 capacidade instalada 480.0
+fluxo:  212.0 capacidade instalada 480.0
+fluxo:  263.0 capacidade instalada 480.0
+fluxo:  160.0 capacidade instalada 480.0
+fluxo:  384.0 capacidade instalada 480.0
+fluxo:  0.0 capacidade instalada 0
+fluxo:  247.0 capacidade instalada 480.0
+fluxo:  100.0 capacidade instalada 480.0
+----------------------------
+menor custo:  16001302.0
+{'demanda_caminho': [[30], [17], [27], [4], [29], [15, 26], [14], [12], [18], [26], [0, 28], [2], [22, 26], [17, 18], [6, 28], [8], [22], [11], [7], [28], [0], [32], [15], [13]], 'fluxo_aresta': [373.0, 0.0, 364.0, 0.0, 197.0, 0.0, 100.0, 266.0, 99.0, 0.0, 0.0, 278.0, 138.0, 237.0, 144.0, 397.0, 0.0, 320.0, 229.0, 0.0, 0.0, 0.0, 203.0, 0.0, 0.0, 0.0, 383.0, 212.0, 478.0, 160.0, 384.0, 0.0, 247.0, 0.0], 'custo': 16001302.0, 'soma_tam_caminhos': 29, 'lista_modulos': [480.0, 0, 480.0, 0, 480.0, 0, 480.0, 480.0, 480.0, 0, 0, 480.0, 480.0, 480.0, 480.0, 480.0, 0, 480.0, 480.0, 0, 0, 0, 480.0, 0, 0, 0, 480.0, 480.0, 480.0, 480.0, 480.0, 0, 480.0, 0]}
 SALVANDO FRENTE DE PARETO DO GA
