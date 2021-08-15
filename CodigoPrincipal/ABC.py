@@ -7,6 +7,7 @@ from helpers import *
 from desenha_rede import *
 from pasta_maluca.GA_correto import GA
 import pasta_maluca.GA_correto as gra
+from argparse import ArgumentParser
 
 print("Inicio Execução codigo!")
 
@@ -496,10 +497,34 @@ Número de abelhas empregadas é igual ao número de soluções na população
 -> limite_tentativas_por_solucao = Quantas vezes uma abelha tanta melhorar a solução até abandonar ela
 -> 
 '''
-# Teste feitos com limitação de execução de no maximo 1h(3600s)
-quant_tempo_duracao = 10
 
-total_abelhas = 100
+
+# ----------------------------------------- PASSAGEM DE PARAMETRO POR TERMINAL ----------------------------------------
+
+parser = ArgumentParser(
+    prog="MetaHeuristica Hibrida ABC + ANSGAII",
+    #description=""
+)
+parser.add_argument('-QT_ABC', default=10, type=int, help='Quantidade de tempo em segundos que o ABC vai ficar em execução')
+parser.add_argument('-QT_GA', default=10, type=int, help='Quantidade de tempo em segundos que o GA vai ficar em execução')
+parser.add_argument('-TA_ABC', default=100, type=int, help='Quantidade de abelhas')
+parser.add_argument('-Q_indv', default=15, type=int, help='Quantidade de individuos do abc que vão ser passados pro GA')
+args = parser.parse_args()
+
+# ---------------------------------------------------------------------------------------------------------------------
+
+print("----------------------- PARAMETROS UTILIZADOS ----------------------------")
+print("Tempo limite execução ABC: ", args.QT_ABC)
+print("Tempo limite execução GA: ", args.QT_GA)
+print("Total de abelhas: ", args.TA_ABC)
+print("Quantidade de individuos: ", args.Q_indv)
+print("--------------------------------------------------------------------------")
+
+
+# Teste feitos com limitação de execução de no maximo 1h(3600s)
+quant_tempo_duracao = args.QT_ABC
+
+total_abelhas = args.TA_ABC
 
 obj = ABC("pdh.txt", tempo_max_execucao=quant_tempo_duracao,quant_abelhas=total_abelhas)
 obj.execute_abc()
@@ -512,11 +537,11 @@ while name != 'n' and name != 's':
 
 nome_pasta = ''
 
-quant_indv = 15
+quant_indv = args.Q_indv
 if len(obj.melhores_solucoes) < quant_indv:
     quant_indv = len(obj.melhores_solucoes)
 
-total_tempo_execucaoAG = 10
+total_tempo_execucaoAG = args.QT_GA
 
 if name == 's':
     # Cria a pasta que irá armazenar os plots
@@ -544,6 +569,6 @@ print("--------------------------------------")
 print("Enviando população para o GA!")
 obj_GA = GA(populacaoABC=lista_com_melhores_solucoes, quant_indv=quant_indv)
 frente_de_pareto_GA = obj_GA.Executa(total_tempo_execucaoAG)
-print("Frente de Pareto do GA: ", frente_de_pareto_GA)
+#print("Frente de Pareto do GA: ", frente_de_pareto_GA)
 print("SALVANDO FRENTE DE PARETO DO GA")
 obj.salva_custos_e_soma_caminho_ordenado(GA_=True, grande_frente_pareto_GA_=frente_de_pareto_GA)
