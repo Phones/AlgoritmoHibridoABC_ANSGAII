@@ -412,9 +412,13 @@ class ABC:
                 self.melhores_solucoes = [] + lista_aux
 
 
-    def salva_fluxos(self):
+    def salva_fluxos(self, name_algoritmo, GA_=False, grande_frente_pareto_GA_=None):
+
+        if GA_:
+            self.melhores_solucoes = grande_frente_pareto_GA_
+
         aux = ''
-        arq = open("fluxos.txt", "w")
+        arq = open("fluxos_" + name_algoritmo + ".txt", "w")
         for m_sol in self.melhores_solucoes:
             aux += str(m_sol.custo) + "\n"
             aux += str(m_sol.soma_tam_caminhos) + "\n"
@@ -558,7 +562,7 @@ if name == 's':
     # Cria a pasta que irá armazenar os plots
     caminho_pasta_resultado = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
     # Salva os fluxos no arquivo de texto, e preenche lista de fluxos
-    obj.salva_fluxos()
+    obj.salva_fluxos(name_algoritmo="ABC", GA_=False, grande_frente_pareto_GA_=None)
     # Salva os parametro utilizados
     obj.salva_parametros_usados(total_tempo_execucaoAG, quant_indv, args.N_teste)
     # Salva os custos e soma caminhos das soluções
@@ -583,3 +587,4 @@ frente_de_pareto_GA = obj_GA.Executa(total_tempo_execucaoAG)
 #print("Frente de Pareto do GA: ", frente_de_pareto_GA)
 print("SALVANDO FRENTE DE PARETO DO GA")
 obj.salva_custos_e_soma_caminho_ordenado(GA_=True, grande_frente_pareto_GA_=frente_de_pareto_GA)
+obj.salva_fluxos(name_algoritmo="GA", GA_=True, grande_frente_pareto_GA_=frente_de_pareto_GA)
