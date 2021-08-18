@@ -412,9 +412,13 @@ class ABC:
                 self.melhores_solucoes = [] + lista_aux
 
 
-    def salva_fluxos(self):
+    def salva_fluxos(self, name_algoritmo,GA_=False):
+
+        if GA_:
+            self.melhores_solucoes = grande_frente_pareto_GA_
+
         aux = ''
-        arq = open("fluxos.txt", "w")
+        arq = open("fluxos_" + name_algoritmo + ".txt", "w")
         for m_sol in self.melhores_solucoes:
             aux += str(m_sol.custo) + "\n"
             aux += str(m_sol.soma_tam_caminhos) + "\n"
@@ -556,7 +560,7 @@ total_tempo_execucaoAG = args.QT_GA
 
 if name == 's':
     # Cria a pasta que irá armazenar os plots
-    nome_pasta = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
+    caminho_pasta_resultado = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
     # Salva os fluxos no arquivo de texto, e preenche lista de fluxos
     obj.salva_fluxos()
     # Salva os parametro utilizados

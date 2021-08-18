@@ -31,7 +31,7 @@ print("-------------------------------------------------------------------------
 
 
 # MOVE O FOCO DESSE TERMINAL PARA A PASTA EM QUE O TESTE VAI SER EXECUTADO
-caminho_pasta_teste = os.getcwd() + "/teste" + str(args.N_teste)
+caminho_pasta_teste = os.getcwd() #+ "/teste" + str(args.N_teste)
 print("Camihno até a pasta de teste: ", caminho_pasta_teste)
 os.chdir(caminho_pasta_teste)
 
@@ -556,7 +556,7 @@ total_tempo_execucaoAG = args.QT_GA
 
 if name == 's':
     # Cria a pasta que irá armazenar os plots
-    nome_pasta = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
+    caminho_pasta_resultado = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
     # Salva os fluxos no arquivo de texto, e preenche lista de fluxos
     obj.salva_fluxos()
     # Salva os parametro utilizados

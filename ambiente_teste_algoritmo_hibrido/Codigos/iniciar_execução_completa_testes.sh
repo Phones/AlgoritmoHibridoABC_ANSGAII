@@ -14,7 +14,7 @@ function espera_processos_finalizarem()
 	do
 		num_terminais=`quant_terminais_abertos`
 		#echo "Numero terminais $num_terminais"
-		if [ $num_terminais -lt 6 ]
+		if [ $num_terminais -lt 3 ]
 		then
 			let cont=cont+1
 		fi
@@ -53,4 +53,5 @@ do
 	echo "  --- Criando terminais para execução e executando testes ---"
 	python cria_todos_terminais_e_executa_teste.py
 	espera_processos_finalizarem
+	./move_arquivo_saida_terminal.sh
 done

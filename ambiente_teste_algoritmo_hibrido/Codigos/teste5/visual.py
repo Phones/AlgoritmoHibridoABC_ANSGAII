@@ -72,6 +72,7 @@ class visual:
                 self.solution_nodes.append(n2)
 
     def plota_grafico(self, Gra, solution_edges, numero_fluxo):
+        plt.figure(figsize=(12,12))
         self.generate_solution_nodes(solution_edges,Gra)
         self.nodes(Gra,self.solution_nodes)
         self.edges(Gra,solution_edges)

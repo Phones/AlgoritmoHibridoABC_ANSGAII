@@ -11,6 +11,12 @@ from queue import Queue
 from visual import visual
 
 
+def salva_arquivo(nome_arquivo, conteudo):
+    arq = open(nome_arquivo, 'w')
+    arq.write(conteudo)
+    arq.close()
+
+
 def seleciona_nome_pasta_e_cria_pasta(numero_teste):
     '''Verifica os nome de pasta que já existem, e então escolhe o nome da pasta
      com base no nome da ultima pasta criada'''
@@ -30,6 +36,10 @@ def seleciona_nome_pasta_e_cria_pasta(numero_teste):
     print(lista_nome_pastas)
     # Monta caminho com o nome da pasta nova
     caminho_nova_pasta = caminho + nome_pasta_nova
+
+    # Salva caminho para a pasta de resultados
+    salva_arquivo('caminho_pasta_resultado.txt', caminho_nova_pasta)
+
     # Cria a pasta
     os.mkdir(caminho_nova_pasta)
 

@@ -315,7 +315,7 @@ class grafo:
         self.caminhos = [[] for i in range(len(self.demandas))]
         self.tam_caminhos = 0
         for k in range(len(self.demandas)):
-            self.__gera_muitos_caminhos(self.caminhos[k],10,k)
+            self.__gera_muitos_caminhos(self.caminhos[k],100,k)
             self.tam_caminhos = max(self.tam_caminhos,len(self.caminhos[k]))
         print('Caminhos gerados')
 

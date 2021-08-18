@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste4/ABC.py", line 559, in <module>
-    nome_pasta = seleciona_nome_pasta_e_cria_pasta(args.N_teste)
-  File "/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste4/desenha_rede.py", line 23, in seleciona_nome_pasta_e_cria_pasta
-    lista_nome_pastas = [int(posL) for posL in lista_nome_pastas]
-  File "/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/ambiente_teste_algoritmo_hibrido/Codigos/teste4/desenha_rede.py", line 23, in <listcomp>
-    lista_nome_pastas = [int(posL) for posL in lista_nome_pastas]
-ValueError: invalid literal for int() with base 10: 'newyork'

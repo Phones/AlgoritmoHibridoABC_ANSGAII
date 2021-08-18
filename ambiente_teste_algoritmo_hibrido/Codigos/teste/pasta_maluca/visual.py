@@ -52,6 +52,7 @@ class visual:
         nx.draw_networkx_edges(self.G, self.node_pos, edge_color=self.edge_color)
         nx.draw_networkx_labels(self.G, self.node_pos, self.node_label)
         nx.draw_networkx_edge_labels(self.G,self.node_pos,edge_labels=self.edge_label)
+        #plt.savefig('/home/paulohenrique/Área de Trabalho/codigo_hibridoIC/AlgoritmoHibridoABC_ANSGAII/CodigoPrincipal/plot_fluxo_teste.png')
         plt.show()
 
     def generate_solution_nodes(self,solution_edges,Gra):
@@ -67,6 +68,8 @@ class visual:
                 self.solution_nodes.append(n2)
 
     def __init__(self,Gra,solution_edges):
+        plt.figure(figsize=(12,12))
+        #plt.figure(figsize=(3.841, 7.195), dpi=100)
         self.generate_solution_nodes(solution_edges,Gra)
         self.nodes(Gra,self.solution_nodes)
         self.edges(Gra,solution_edges)
