@@ -1,0 +1,12 @@
+rede utilizada: message.txt
+pasta teste número: 11
+ciclos: 2
+total_abelhas: 1400
+tempo_max_execucao: 1200
+quantidade_abelhas_empregadas: 700
+tamanho_populacao: 700
+limite_tentativas_por_solucao: 20
+quantidade_abelhas_observadoras: 700
+quantidade_abelhas_exploradoras: 700
+tempo_max_execucao GA: 3600
+quant_indv_do_abc_para_GA: 14

@@ -428,7 +428,8 @@ class ABC:
         return self.todos_fluxos
 
     def salva_parametros_usados(self, tempo_max_execucaoGA, quant_indv, num_pasta):
-        string = 'pasta teste número: ' + str(num_pasta) + '\n'
+        string = 'rede utilizada: message.txt\n'
+        string += 'pasta teste número: ' + str(num_pasta) + '\n'
         string += 'ciclos: ' + str(self.ciclos) + '\n'
         string += 'total_abelhas: ' + str(self.total_abelhas) + '\n'
         string += 'tempo_max_execucao: ' + str(self.tempo_max_execucao) + '\n'
@@ -536,7 +537,7 @@ quant_tempo_duracao = args.QT_ABC
 
 total_abelhas = args.TA_ABC
 
-obj = ABC("pdh.txt", tempo_max_execucao=quant_tempo_duracao,quant_abelhas=total_abelhas)
+obj = ABC("message.txt", tempo_max_execucao=quant_tempo_duracao,quant_abelhas=total_abelhas)
 obj.execute_abc()
 print("Quantidade de ciclos executados: ", obj.ciclos)
 

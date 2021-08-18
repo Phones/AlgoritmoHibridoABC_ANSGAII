@@ -11,7 +11,7 @@ from queue import Queue
 from visual import visual
 
 
-_grafo_ = grafo('pdh.txt')
+_grafo_ = grafo('message.txt')
 G = _grafo_
 random.seed(None)
 grande_frente_pareto = []

@@ -1,0 +1,12 @@
+rede utilizada: newyork.txt
+pasta teste número: 15
+ciclos: 3
+total_abelhas: 600
+tempo_max_execucao: 1200
+quantidade_abelhas_empregadas: 300
+tamanho_populacao: 300
+limite_tentativas_por_solucao: 20
+quantidade_abelhas_observadoras: 300
+quantidade_abelhas_exploradoras: 300
+tempo_max_execucao GA: 3600
+quant_indv_do_abc_para_GA: 8

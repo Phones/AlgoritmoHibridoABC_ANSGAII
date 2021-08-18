@@ -12,14 +12,19 @@ for name in lista:
 		continue
 
 	caminho_pasta_arquivo = caminho + name + "/custos_e_soma_caminho_GA.txt"
-	arq = open(caminho_pasta_arquivo, 'r')
-	linhas = arq.readlines()
-	arq.close()
-	
-	valor = float(linhas[0].split(" ")[-1])
-	if valor < valor_final:
-		valor_final = valor
-		caminho_final = caminho_pasta_arquivo
+	try:
+		arq = open(caminho_pasta_arquivo, 'r')
+		linhas = arq.readlines()
+		arq.close()
+		
+		valor = float(linhas[0].split(" ")[-1])
+		if valor < valor_final:
+			valor_final = valor
+			caminho_final = caminho_pasta_arquivo
+	except:
+		print("Erro na hora de verificar o resultado da pasta de caminho:")
+		print(caminho_pasta_arquivo)
+		print("----------------------------------------------------------")
 
 
 print("menor encontrado: ", valor_final)

@@ -331,4 +331,4 @@ class grafo:
         self.__calcula_matriz_adjacencia_max_cap()
         self.__gera_paths()
 
-#G = grafo(r'pdh.txt')
+#G = grafo(r'newyork.txt')

@@ -1,0 +1,4 @@
+SOLUÇÃO 0, Custo: 4255650.0
+SOLUÇÃO 0, soma_tam_caminhos: 658
+SOLUÇÃO 1, Custo: 4282674.0
+SOLUÇÃO 1, soma_tam_caminhos: 420
